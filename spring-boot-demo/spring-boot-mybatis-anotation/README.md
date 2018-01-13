@@ -4,7 +4,7 @@
 
 使用注解或xml 文件配置sql
 
-
+启动类添加**@MapperScan("com.ming.mapper")** 可以省去直接在Mapper类上添加**@Mapper** 
 
 
 
